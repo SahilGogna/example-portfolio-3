@@ -49,10 +49,8 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 🎓 Education
 
-**Bachelor's in Economics and Statistics**  
-[University Name], [Location]  
-*June 2016 – Jan 2020 | GPA: 3.7*  
-**Relevant Coursework:** Machine Learning, Big Data Analytics, Statistical Modeling
+- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
+- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
 
 ---
 
